@@ -1,0 +1,75 @@
+# Ignore all logfiles and tempfiles. 
+#TeachEnglish/bin/
+#TeachEnglish/obj/
+
+#TeachEnglish.BL/bin/
+#TeachEnglish.BL/obj/
+#TeachEnglish.DAL/bin/
+#TeachEnglish.DAL/obj/
+
+#TeachEnglish.EF/bin/
+#TeachEnglish.EF/obj/
+
+*.[Oo]bj
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.opensdf
+*.unsuccessfulbuild
+ipch/
+#[Oo]bj/
+#[Bb]in
+#[Dd]ebug*/
+#[Rr]elease*/
+Ankh.NoLoad
+
+#MonoDevelop
+*.pidb
+*.userprefs
+
+#Tooling
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+*.sass-cache
+
+#Project files
+[Bb]uild/
+
+#Subversion files
+.svn
+
+# Office Temp Files
+~$*
+
+# vim Temp Files
+*~
+
+#NuGet
+#packages/
+#*.nupkg
+
+#ncrunch
+*ncrunch*
+*crunch*.local.xml
+
+# visual studio database projects
+*.dbmdl
+
+#Test files
+*.testsettings
