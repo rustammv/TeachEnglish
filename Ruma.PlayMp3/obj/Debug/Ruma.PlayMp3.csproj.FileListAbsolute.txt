@@ -1,0 +1,11 @@
+E:\C#\Project\RumaTeachEnglish\Ruma.PlayMp3\bin\Debug\Ruma.PlayMp3.dll
+E:\C#\Project\RumaTeachEnglish\Ruma.PlayMp3\bin\Debug\Ruma.PlayMp3.pdb
+E:\C#\Project\RumaTeachEnglish\Ruma.PlayMp3\bin\Debug\NAudio.dll
+E:\C#\Project\RumaTeachEnglish\Ruma.PlayMp3\bin\Debug\Ruma.AbortableBackgroundWorker.dll
+E:\C#\Project\RumaTeachEnglish\Ruma.PlayMp3\bin\Debug\Ruma.ExtensionEventArgs.dll
+E:\C#\Project\RumaTeachEnglish\Ruma.PlayMp3\bin\Debug\Ruma.AbortableBackgroundWorker.pdb
+E:\C#\Project\RumaTeachEnglish\Ruma.PlayMp3\bin\Debug\Ruma.ExtensionEventArgs.pdb
+E:\C#\Project\RumaTeachEnglish\Ruma.PlayMp3\bin\Debug\NAudio.xml
+E:\C#\Project\RumaTeachEnglish\Ruma.PlayMp3\obj\Debug\Ruma.PlayMp3.csprojResolveAssemblyReference.cache
+E:\C#\Project\RumaTeachEnglish\Ruma.PlayMp3\obj\Debug\Ruma.PlayMp3.dll
+E:\C#\Project\RumaTeachEnglish\Ruma.PlayMp3\obj\Debug\Ruma.PlayMp3.pdb
