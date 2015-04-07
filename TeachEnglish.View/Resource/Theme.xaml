@@ -1,0 +1,29 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Geometry x:Key="Checkmark">M 0,5.1 L 1.7,5.2 L 3.4,7.1 L 8,0.4 L 9.2,0 L 3.3,10.8 Z</Geometry>
+
+    <SolidColorBrush x:Key="BackgroundMotherElement" Color="#FF252525"/>
+    <SolidColorBrush x:Key="BorderBrush" Color="#FF4F4F4f"/>
+
+    <SolidColorBrush x:Key="BorderBrushFocused" Color="#FF555555"/>
+
+    <SolidColorBrush x:Key="BorderBrushDisabled" Color="#FF454545"/>
+
+    <SolidColorBrush x:Key="FrontColor" Color="#FF373737"/>
+    <SolidColorBrush x:Key="SubMenuBackgroundBrush" Color="#FF373737"/>
+    <SolidColorBrush x:Key="MenuBackground" Color="#FF373737"/>
+
+
+    <SolidColorBrush x:Key="StaticText" Color="#FF9C9C9C"/>
+    <SolidColorBrush x:Key="DinamicText" Color="#FFE4E4E4"/>
+
+    <SolidColorBrush x:Key="FocusedStaticText" Color="#FF0067FB"/>
+    <SolidColorBrush x:Key="SelectedStaticText" Color="#FF1484FB"/>
+    <SolidColorBrush x:Key="DisabledStaticText" Color="#FF454545"/>
+
+    <LinearGradientBrush x:Key="MenuItemPressedFill" EndPoint="0,1" StartPoint="0,0">
+        <GradientStop Color="#28717070" Offset="0"/>
+        <GradientStop Color="#50717070" Offset="0.75"/>
+        <GradientStop Color="#90717070" Offset="1"/>
+    </LinearGradientBrush>    
+</ResourceDictionary>
