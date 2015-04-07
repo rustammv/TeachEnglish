@@ -1,0 +1,34 @@
+﻿<Window x:Class="CreateMyControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Ruma.Controls;assembly=Ruma.Controls"
+ 
+        Title="MainWindow" Height="511" Width="900">
+
+    <Grid Name="Grid1">
+
+        <!--<ScrollViewer HorizontalAlignment="Left" Height="90" Margin="23,10,0,0" VerticalAlignment="Top" Width="193">
+            <StackPanel Background="#FF28282B" >
+                <local:Radio3LinesText Text1Line="asdasd" Text2Line="qqqqqq" Text3Line="ssss" ID="1" GroupName="qwe" Height="34" Margin="3" />
+                <local:Radio3LinesText Text1Line="asdasd" Text2Line="qqqqqq" Text3Line="ssss" ID="1" GroupName="qwe" Height="37" Margin="3" />
+                <local:ButtonTextAndCheck x:Name="qqq" TextButton="qqq" Height="27" Margin="3"/>
+                <local:ButtonTextAndCheck TextButton="sadasasdsadfghdfghd" Height="27" Margin="3"/>
+                <local:ButtonImageAndCheck x:Name="qwerty" Height="25" Margin="3"/>
+                <local:ButtonImageAndCheck Height="25" Margin="3"/>
+                <local:ButtonText Height="25" Margin="3" Content="asdasd"/>
+                <local:ButtonText IsEnabled="False"  Height="25" Margin="3" Content="asdasd"/>
+                <local:ButtonText Height="25" Margin="3" Content="asdasd"/>
+                -->
+        <!--<local:ButtonTextAndCheck Content="12123123123" Height="65" IsEnabled="False" Margin="3" Width="159"/>-->
+        <!--
+            </StackPanel>
+        </ScrollViewer>-->
+        <local:TextBoxIntellisense Name="txt" Height="19" Text="M" VerticalContentAlignment="Center" Margin="370,226,212,0" VerticalAlignment="Top" TextChanged="txt1_TextChanged"/>
+        <!--<local:ButtonTextAndCheck x:Name="qqq" TextButton="qqq" Height="30" Margin="193,252,176,202"/>-->
+
+        <TextBox Name="txtFilterText" HorizontalAlignment="Left" Margin="378,50,0,0" Grid.RowSpan="2" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="223"/>
+
+        <TextBlock Name="t"  HorizontalAlignment="Left" Margin="84,211,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="87" Width="192"/>
+
+    </Grid>
+</Window>

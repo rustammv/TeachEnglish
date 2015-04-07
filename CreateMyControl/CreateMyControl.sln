@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateMyControl", "CreateMyControl\CreateMyControl.csproj", "{E8DC2911-D29A-4C30-B838-46215E8A8E5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruma.Controls", "Ruma.Controls\Ruma.Controls.csproj", "{65C0FB28-AB3C-43CF-9F17-593E8CDA44ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8DC2911-D29A-4C30-B838-46215E8A8E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8DC2911-D29A-4C30-B838-46215E8A8E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8DC2911-D29A-4C30-B838-46215E8A8E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8DC2911-D29A-4C30-B838-46215E8A8E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C0FB28-AB3C-43CF-9F17-593E8CDA44ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C0FB28-AB3C-43CF-9F17-593E8CDA44ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C0FB28-AB3C-43CF-9F17-593E8CDA44ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C0FB28-AB3C-43CF-9F17-593E8CDA44ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
