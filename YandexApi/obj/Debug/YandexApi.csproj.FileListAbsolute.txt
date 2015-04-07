@@ -1,0 +1,9 @@
+E:\C#\Project\Test_task\YandexApi\bin\Debug\YandexApi.dll
+E:\C#\Project\Test_task\YandexApi\bin\Debug\YandexApi.pdb
+E:\C#\Project\Test_task\YandexApi\obj\Debug\YandexApi.dll
+E:\C#\Project\Test_task\YandexApi\obj\Debug\YandexApi.pdb
+E:\C#\Project\RumaTeachEnglish\YandexApi\bin\Debug\YandexApi.dll
+E:\C#\Project\RumaTeachEnglish\YandexApi\bin\Debug\YandexApi.pdb
+E:\C#\Project\RumaTeachEnglish\YandexApi\obj\Debug\YandexApi.dll
+E:\C#\Project\RumaTeachEnglish\YandexApi\obj\Debug\YandexApi.pdb
+E:\C#\Project\RumaTeachEnglish\YandexApi\obj\Debug\YandexApi.csprojResolveAssemblyReference.cache
