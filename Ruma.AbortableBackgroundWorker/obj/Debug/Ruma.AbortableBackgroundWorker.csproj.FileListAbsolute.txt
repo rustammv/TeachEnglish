@@ -1,0 +1,4 @@
+E:\C#\Project\RumaTeachEnglish\Ruma.AbortableBackgroundWorker\bin\Debug\Ruma.AbortableBackgroundWorker.dll
+E:\C#\Project\RumaTeachEnglish\Ruma.AbortableBackgroundWorker\bin\Debug\Ruma.AbortableBackgroundWorker.pdb
+E:\C#\Project\RumaTeachEnglish\Ruma.AbortableBackgroundWorker\obj\Debug\Ruma.AbortableBackgroundWorker.dll
+E:\C#\Project\RumaTeachEnglish\Ruma.AbortableBackgroundWorker\obj\Debug\Ruma.AbortableBackgroundWorker.pdb
