@@ -1,0 +1,5 @@
+E:\C#\Project\RumaTeachEnglish\Ruma.AboutDataProvider\bin\Debug\Ruma.AboutDataProvider.dll
+E:\C#\Project\RumaTeachEnglish\Ruma.AboutDataProvider\bin\Debug\Ruma.AboutDataProvider.pdb
+E:\C#\Project\RumaTeachEnglish\Ruma.AboutDataProvider\obj\Debug\Ruma.AboutDataProvider.dll
+E:\C#\Project\RumaTeachEnglish\Ruma.AboutDataProvider\obj\Debug\Ruma.AboutDataProvider.pdb
+E:\C#\Project\RumaTeachEnglish\Ruma.AboutDataProvider\obj\Debug\Ruma.AboutDataProvider.csprojResolveAssemblyReference.cache
