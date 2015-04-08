@@ -1,0 +1,12 @@
+E:\C#\Project\RumaTeachEnglish\Ruma.WpfUserControls\bin\Debug\Ruma.WpfUserControls.dll
+E:\C#\Project\RumaTeachEnglish\Ruma.WpfUserControls\bin\Debug\Ruma.WpfUserControls.pdb
+E:\C#\Project\RumaTeachEnglish\Ruma.WpfUserControls\obj\Debug\ListBac.baml
+E:\C#\Project\RumaTeachEnglish\Ruma.WpfUserControls\obj\Debug\LoadingProcess.baml
+E:\C#\Project\RumaTeachEnglish\Ruma.WpfUserControls\obj\Debug\ListBac.g.cs
+E:\C#\Project\RumaTeachEnglish\Ruma.WpfUserControls\obj\Debug\LoadingProcess.g.cs
+E:\C#\Project\RumaTeachEnglish\Ruma.WpfUserControls\obj\Debug\Ruma.WpfUserControls_MarkupCompile.cache
+E:\C#\Project\RumaTeachEnglish\Ruma.WpfUserControls\obj\Debug\Ruma.WpfUserControls.g.resources
+E:\C#\Project\RumaTeachEnglish\Ruma.WpfUserControls\obj\Debug\Ruma.WpfUserControls.Properties.Resources.resources
+E:\C#\Project\RumaTeachEnglish\Ruma.WpfUserControls\obj\Debug\Ruma.WpfUserControls.csproj.GenerateResource.Cache
+E:\C#\Project\RumaTeachEnglish\Ruma.WpfUserControls\obj\Debug\Ruma.WpfUserControls.dll
+E:\C#\Project\RumaTeachEnglish\Ruma.WpfUserControls\obj\Debug\Ruma.WpfUserControls.pdb
