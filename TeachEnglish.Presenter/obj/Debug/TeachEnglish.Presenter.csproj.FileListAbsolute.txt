@@ -12,7 +12,6 @@ E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\TeachEnglish.Pre
 E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\Ruma.ExtensionEventArgs.dll
 E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\TeachEnglish.BL.dll
 E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\TeachEnglish.SQLite.DAL.dll
-E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\TeachEnglish.View.exe
 E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\YandexApi.dll
 E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\HtmlAgilityPack.dll
 E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\GoogleSearchAPI.dll
@@ -26,7 +25,6 @@ E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\NAudio.dll
 E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\Ruma.ExtensionEventArgs.pdb
 E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\TeachEnglish.BL.pdb
 E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\TeachEnglish.SQLite.DAL.pdb
-E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\TeachEnglish.View.pdb
 E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\YandexApi.pdb
 E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\HtmlAgilityPack.pdb
 E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\HtmlAgilityPack.xml
@@ -48,3 +46,7 @@ E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\Newtonsoft.Json.
 E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\GoogleSearchAPI.pdb
 E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\GoogleSearchAPI.xml
 E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\Newtonsoft.Json.xml
+E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\TeachEnglish.Views.dll
+E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\Ruma.WpfUserControls.dll
+E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\TeachEnglish.Views.pdb
+E:\C#\Project\RumaTeachEnglish\TeachEnglish.Presenter\bin\Debug\Ruma.WpfUserControls.pdb

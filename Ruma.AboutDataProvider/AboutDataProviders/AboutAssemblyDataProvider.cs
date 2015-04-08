@@ -1,11 +1,11 @@
 ﻿using System;
-using System.Diagnostics;
 using System.IO;
 using System.Reflection;
-//using System.Windows.Data;
 using System.Xml;
+using TeachEnglish.Views.AboutDataProviders;
+//using System.Windows.Data;
 
-namespace TeachEnglish.View.AboutDataProviders
+namespace Ruma.AboutDataProvider.AboutDataProviders
 {
     /// <summary>
     /// This DataProvider retrieves the application's About information from

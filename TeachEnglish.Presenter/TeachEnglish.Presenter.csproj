@@ -132,9 +132,9 @@
       <Project>{d6d533ab-e73f-414d-92f7-8325400a11d8}</Project>
       <Name>TeachEnglish.SQLite.DAL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\TeachEnglish.View\TeachEnglish.View.csproj">
-      <Project>{13d6035b-388f-4767-824e-1637ee19be27}</Project>
-      <Name>TeachEnglish.View</Name>
+    <ProjectReference Include="..\TeachEnglish.Views\TeachEnglish.Views.csproj">
+      <Project>{c6b2863b-1ccc-40af-ac1f-ecffc6ac2d0a}</Project>
+      <Name>TeachEnglish.Views</Name>
     </ProjectReference>
     <ProjectReference Include="..\YandexApi\YandexApi.csproj">
       <Project>{adf9d04b-bff5-42dd-bf04-704df38a3d25}</Project>

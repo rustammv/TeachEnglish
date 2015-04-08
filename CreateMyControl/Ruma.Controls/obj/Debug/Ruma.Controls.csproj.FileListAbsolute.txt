@@ -20,4 +20,3 @@ E:\C#\Project\RumaTeachEnglish\CreateMyControl\Ruma.Controls\obj\Debug\Ruma.Cont
 E:\C#\Project\RumaTeachEnglish\CreateMyControl\Ruma.Controls\obj\Debug\Ruma.Controls.csproj.GenerateResource.Cache
 E:\C#\Project\RumaTeachEnglish\CreateMyControl\Ruma.Controls\obj\Debug\Ruma.Controls.dll
 E:\C#\Project\RumaTeachEnglish\CreateMyControl\Ruma.Controls\obj\Debug\Ruma.Controls.pdb
-E:\C#\Project\RumaTeachEnglish\CreateMyControl\Ruma.Controls\obj\Debug\Ruma.Controls.csprojResolveAssemblyReference.cache

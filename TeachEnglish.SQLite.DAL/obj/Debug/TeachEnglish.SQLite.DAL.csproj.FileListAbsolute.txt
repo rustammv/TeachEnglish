@@ -17,4 +17,3 @@ E:\C#\Project\RumaTeachEnglish\TeachEnglish.SQLite.DAL\bin\Debug\EntityFramework
 E:\C#\Project\RumaTeachEnglish\TeachEnglish.SQLite.DAL\bin\Debug\EntityFramework.SqlServer.xml
 E:\C#\Project\RumaTeachEnglish\TeachEnglish.SQLite.DAL\obj\Debug\TeachEnglish.SQLite.DAL.dll
 E:\C#\Project\RumaTeachEnglish\TeachEnglish.SQLite.DAL\obj\Debug\TeachEnglish.SQLite.DAL.pdb
-E:\C#\Project\RumaTeachEnglish\TeachEnglish.SQLite.DAL\obj\Debug\TeachEnglish.SQLite.DAL.csprojResolveAssemblyReference.cache

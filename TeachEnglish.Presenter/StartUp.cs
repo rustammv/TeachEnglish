@@ -4,10 +4,13 @@
 // </copyright>
 // <author>Rustam Muratov</author>
 //-----------------------------------------------------------------------
+
+using TeachEnglish.Views;
+
 namespace TeachEnglish.Presenter
 {
     using TeachEnglish.BL;
-    using TeachEnglish.View;
+    using TeachEnglish.Views;
     using System.Windows;
 
     public class StartUp

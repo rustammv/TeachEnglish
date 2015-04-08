@@ -1,4 +1,4 @@
-﻿namespace TeachEnglish.View.AboutDataProviders
+﻿namespace TeachEnglish.Views.AboutDataProviders
 {
     /// <summary>
     /// This interface describes the data that's used to populate the WpfAboutBox.

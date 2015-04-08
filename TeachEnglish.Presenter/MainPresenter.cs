@@ -4,6 +4,9 @@
 // </copyright>
 // <author>Rustam Muratov</author>
 //-----------------------------------------------------------------------
+
+using TeachEnglish.Views;
+
 namespace TeachEnglish.Presenter
 {
     using System;
@@ -13,7 +16,7 @@ namespace TeachEnglish.Presenter
     using Ruma.ExtensionEventArgs;
     using TeachEnglish.BL;
     using TeachEnglish.SQLite.DAL;
-    using TeachEnglish.View;
+    using TeachEnglish.Views;
     using YandexApi;
 
     /// <summary>
