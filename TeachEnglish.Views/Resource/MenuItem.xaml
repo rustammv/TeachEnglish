@@ -98,10 +98,10 @@
             </Trigger>
             <Trigger SourceName="Popup" Property="AllowsTransparency" Value="True">
                 <Setter TargetName="SubmenuBorder" Property="Padding" Value="0,0,0,3" />
-                <Setter Property="Foreground" Value="{StaticResource StaticText}"></Setter>
+                <Setter Property="Foreground" Value="{DynamicResource TextStatic}"></Setter>
             </Trigger>
             <Trigger Property="IsEnabled" Value="False">
-                <Setter Property="Foreground" Value="{StaticResource DisabledForegroundColor}"/>
+                <Setter Property="Foreground" Value="{DynamicResource DisabledForegroundColor}"/>
             </Trigger>
 
             <Trigger Property="IsMouseOver" Value="True">
@@ -125,7 +125,7 @@
                 <Setter Property="Foreground" Value="Tan"></Setter>
             </Trigger>
             <Trigger Property="IsEnabled" Value="False">
-                <Setter Property="Foreground" Value="{StaticResource DisabledForegroundColor}" />
+                <Setter Property="Foreground" Value="{DynamicResource DisabledForegroundColor}" />
             </Trigger>
         </ControlTemplate.Triggers>
     </ControlTemplate>
@@ -169,11 +169,8 @@
             </Trigger>
             <Trigger Property="IsEnabled"
              Value="false">
-                <Setter Property="Foreground">
-                    <Setter.Value>
-                        <SolidColorBrush Color="{StaticResource DisabledForegroundColor}" />
-                    </Setter.Value>
-                </Setter>
+                <Setter Property="Foreground" Value="{DynamicResource DisabledForegroundColor}" />
+                    
             </Trigger>
         </ControlTemplate.Triggers>
     </ControlTemplate>
